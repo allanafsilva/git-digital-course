@@ -1,4 +1,4 @@
-# git-digital-course
-
 # Curso Digital: Git
-Escrevendo aqui
+
+## Salvando alterações no Git
+* Comando git push
